@@ -61,7 +61,7 @@ The dataset includes:
 ---
 
 ## 📜 License
-Released under the **[MIT Licence](LICENSE.md)** – free to use and modify with credit to the author.
+Released under the **[MIT Licence](LICENSE)** – free to use and modify with credit to the author.
 
 ---
 
