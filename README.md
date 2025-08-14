@@ -67,5 +67,5 @@ Released under the **[MIT Licence](LICENSE)** – free to use and modify with cr
 
 ## 👤 Author
 **Shuba S**  
-📧 Email: your.email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/your-link) | 🐙 [GitHub](https://github.com/your-username)
+📧 Email: shuba9902@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/shuba-s01/) | 🐙 [GitHub](https://github.com/Shuba0S/)
